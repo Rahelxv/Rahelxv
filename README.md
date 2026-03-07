@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Rahel! 👋
 
-<!--
-**Rahelxv/Rahelxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A writer who writes code.** 🖋️💻
 
-Here are some ideas to get you started:
+ My projects mainly focus on **Full-Stack Development** and **Data Science**, where I enjoy building stuff and looking for meaningful insights from data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Web Development:** HTML, CSS, JavaScript
+- **Data Science & Backend:** Python, C++
+- **Core Strengths:** Technical Writing, Documentation, Problem Solving
+
+### 🔭 Currently Focused On
+- Building interactive and responsive full-stack applications.
+- Analyzing datasets and exploring data science methodologies.
+
+### 📫 Let's Connect!
+- **LinkedIn:** [www.linkedin.com/in/rahelxv]
+- **Portfolio / Blog:** [https://rahelxv.github.io/]
+- **Email:** [Rahelvirgia6@gmail.com]
