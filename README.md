@@ -16,5 +16,5 @@
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [www.linkedin.com/in/rahelxv]
-- **Portfolio / Blog:** [https://rahelxv.github.io/Rahel.dev.io/]
+- **Portfolio / Blog:** [https://rahelxv.github.io]
 - **Email:** [Rahelvirgia6@gmail.com]
